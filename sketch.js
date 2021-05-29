@@ -5,13 +5,13 @@ var feed,addFood;
 var foodObj;
 
 function preload(){
-sadDog=loadImage("images/Dog.png");
-happyDog=loadImage("images/happydog.png");
-mImage = loadImage("images/women3.png");
-fImage = loadImage("images/father3.png");
-bImage = loadImage("images/boy.png");
-babyImg = loadImage("images/baby.png");
-back = loadImage("images/back.jpg");
+sadDog=loadImage("Dog.png");
+happyDog=loadImage("happydog.png");
+mImage = loadImage("women3.png");
+fImage = loadImage("father3.png");
+bImage = loadImage("boy.png");
+babyImg = loadImage("baby.png");
+back = loadImage("back.jpg");
 }
 
 function setup() {
